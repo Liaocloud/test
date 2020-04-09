@@ -1,3 +1,6 @@
 hello
 new add news app
+<<<<<<< HEAD
 ÈøÍßµÏ¿¨£¬¹þ¹þ°¡¹þ¹þ
+=======
+>>>>>>> e00a4b57ccf2016afe416374bb3fcb0c3438e7aa
